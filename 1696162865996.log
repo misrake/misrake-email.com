@@ -1,0 +1,36 @@
+--------- beginning of main
+10-01 15:12:25.526  9884  9884 I imobie.anydroi: Using CollectorTypeCC GC.
+10-01 15:12:25.538  9884  9884 E imobie.anydroi: Not starting debugger since process cannot load the jdwp agent.
+10-01 15:12:25.542  9884  9884 E USNET   : USNET: appName: com.imobie.anydroid
+10-01 15:12:25.544  9884  9884 D ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+10-01 15:12:25.550  9884  9884 D ActivityThread: setConscryptValidator
+10-01 15:12:25.550  9884  9884 D ActivityThread: setConscryptValidator - put
+--------- beginning of system
+10-01 15:12:25.574  9884  9884 D ActivityThread: handleBindApplication()++ app=com.imobie.anydroid
+10-01 15:12:25.575  9884  9884 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10037; state: ENABLED
+10-01 15:12:25.634  9884  9884 D nativeloader: Configuring classloader-namespace for other apk /data/app/~~thYMuqf7aTyztTqpWw5Rlw==/com.imobie.anydroid-SigArao4RvVkrjNYxA_aoA==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~thYMuqf7aTyztTqpWw5Rlw==/com.imobie.anydroid-SigArao4RvVkrjNYxA_aoA==/lib/arm, permitted_path=/data:/mnt/expand:/data/user/0/com.imobie.anydroid
+10-01 15:12:25.706  9884  9884 V GraphicsEnvironment: ANGLE Developer option for 'com.imobie.anydroid' set to: 'default'
+10-01 15:12:25.706  9884  9884 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+10-01 15:12:25.710  9884  9884 D LoadedApk: LoadedApk::makeApplication() appContext.mOpPackageName=com.imobie.anydroid appContext.mBasePackageName=com.imobie.anydroid
+10-01 15:12:25.712  9884  9884 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+10-01 15:12:25.722  9884  9884 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+10-01 15:12:26.000  9884  9884 D ActivityThread: handleBindApplication() --
+10-01 15:12:26.046  9884  9884 W ImageLoader: diskCache(), diskCacheSize() and diskCacheFileCount calls overlap each other
+10-01 15:12:26.046  9884  9884 W ImageLoader: diskCache(), diskCacheSize() and diskCacheFileCount calls overlap each other
+10-01 15:21:05.545 18773 18773 I imobie.anydroi: Using CollectorTypeCC GC.
+10-01 15:21:05.563 18773 18773 E imobie.anydroi: Not starting debugger since process cannot load the jdwp agent.
+10-01 15:21:05.573 18773 18773 E USNET   : USNET: appName: com.imobie.anydroid
+10-01 15:21:05.576 18773 18773 D ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+10-01 15:21:05.583 18773 18773 D ActivityThread: setConscryptValidator
+10-01 15:21:05.584 18773 18773 D ActivityThread: setConscryptValidator - put
+10-01 15:21:05.603 18773 18773 D ActivityThread: handleBindApplication()++ app=com.imobie.anydroid
+10-01 15:21:05.604 18773 18773 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10037; state: ENABLED
+10-01 15:21:05.743 18773 18773 D nativeloader: Configuring classloader-namespace for other apk /data/app/~~thYMuqf7aTyztTqpWw5Rlw==/com.imobie.anydroid-SigArao4RvVkrjNYxA_aoA==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~thYMuqf7aTyztTqpWw5Rlw==/com.imobie.anydroid-SigArao4RvVkrjNYxA_aoA==/lib/arm, permitted_path=/data:/mnt/expand:/data/user/0/com.imobie.anydroid
+10-01 15:21:05.803 18773 18773 V GraphicsEnvironment: ANGLE Developer option for 'com.imobie.anydroid' set to: 'default'
+10-01 15:21:05.803 18773 18773 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+10-01 15:21:05.810 18773 18773 D LoadedApk: LoadedApk::makeApplication() appContext.mOpPackageName=com.imobie.anydroid appContext.mBasePackageName=com.imobie.anydroid
+10-01 15:21:05.811 18773 18773 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+10-01 15:21:05.824 18773 18773 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+10-01 15:21:05.921 18773 18773 D ActivityThread: handleBindApplication() --
+10-01 15:21:05.946 18773 18773 W ImageLoader: diskCache(), diskCacheSize() and diskCacheFileCount calls overlap each other
+10-01 15:21:05.947 18773 18773 W ImageLoader: diskCache(), diskCacheSize() and diskCacheFileCount calls overlap each other
